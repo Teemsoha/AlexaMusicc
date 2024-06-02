@@ -1,6 +1,6 @@
 {
-    "name": "Alexa Music",
-    "description": "Deploy Alexa music on railwey make sure to star the projecte.",
+    "name": "Dina Music",
+    "description": "Deploy Dina music on railwey make sure to star the projecte.",
     "logo": "https://telegra.ph/file/ba967503682a55beaedd3.png",
     "keywords": [
     "python3",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "24514467",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5a8c3d38c4d89b672062c5ff015380c7",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,17 +29,17 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "6938671104",
         "required": true
       },        
       "MONGO_DB_URI": {
         "description": "Mongo DB URL",
-        "value": "",
+        "value": "mongodb+srv://proceed58:proceed58@cluster0.p5s9ym5.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot.",
-        "value": "",
+        "value": "ريماكس",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TheTeamAlexa/AlexaMusic",
+        "value": "https://github.com/Teemsoha/AlexaMusicc",
         "required": true
       },
       "LOG_GROUP_ID": {
