@@ -12,6 +12,8 @@ as you want or you can collabe if you have new ideas.
 import random
 import string
 
+from AlexaMusic.plugins.play.filters import command
+
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InputMediaPhoto, Message
 from pytgcalls.exceptions import NoActiveGroupCall
